@@ -4,30 +4,14 @@
 > 本文件為內部工程更新日誌  
 > iOS / Android 版本與 Build 各自獨立
 
-## iOS ipa 安裝教學
-⚠️**若從這邊下載安裝，將無法使用 App Store 更新**
-
-**下載安裝指南**
-1. 安裝 Sideloadly ( 或其他可以側載的應用如 Alt Store，這邊僅示範 Sideloadly， MacOS, Windows 皆可 )
-**Windows 需額外安裝 [iTunes](https://www.apple.com/itunes/download/win64) & [iCloud](https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe)**
-2. 按照下圖，將資訊全部填入
-<img width="320" height="240" alt="img1" src="https://github.com/user-attachments/assets/d5f03249-feaa-413a-b8ea-7cb55127d0e0" />
-
-3. 按下 Start，若您的設備尚未開啟開發者模式 (或是者不到該選項)，Sideloadly 會提示您，並讓選項出現於您的 iphone -> 設定 -> 隱私權與安全性 -> 最底下**安全性** ( 步驟如下圖 ) ( 首次開啟後，須重啟手機 )
-<img width="207" height="193" alt="img3" src="https://github.com/user-attachments/assets/2c050066-8880-4fd9-b769-449640858dc1" />
-<img width="207" height="213" alt="img4" src="https://github.com/user-attachments/assets/08f551d2-972a-45a2-b351-b0b988f30487" />
-
-4. 開啟完成後，即可順利安裝 ( 安裝完成後可以中斷與電腦的連線 )，初次安裝完成後，還須對您的 appleID 做信任憑證，開啟步驟為：
-    您的 iphone -> 設定 -> 一般 -> VPN與裝置管理 -> 開發者App 信任
-<img width="207" height="239" alt="img5" src="https://github.com/user-attachments/assets/8cf4c7df-1d57-4883-8afa-d075cb136b40" />
-<img width="207" height="221" alt="img6" src="https://github.com/user-attachments/assets/5cc296cf-21e3-420d-a850-7bd67cdc5cc6" />
-<img width="207" height="219" alt="img7" src="https://github.com/user-attachments/assets/305f47b5-da2d-4b3b-ab3c-582d866b9f22" />
-
-5. 請注意，一般側載期限為7天，7天到期後會發現應用程式無法被開啟，使用  sideloadly 重新簽名安裝即可
-
 ---
 
 # iOS
+
+## 26.10.23 更新內容
+- _更新_：M園區 - 新增 QR code 點名
+- _更新_：Zuvio - 功能回歸
+- _更新_：郵件包裹 - 新增包裹收發功能
 
 ## 26.10.01 更新內容
 - _更新_：M園區 - 更新M園區課程擷取邏輯 
@@ -111,6 +95,11 @@
 -------------------
 
 # Android
+
+## 26.10.23 (38) 更新內容
+- _更新_：M園區 - 新增 QR code 點名
+- _更新_：Zuvio - 功能回歸
+- _更新_：郵件包裹 - 新增包裹收發功能
 
 ## 26.10.01 (36) 更新內容
 - _更新_：M園區 - 更新M園區課程擷取邏輯 
